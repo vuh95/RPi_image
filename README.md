@@ -4,7 +4,7 @@ Libcamera is a support library for Linux, Android and ChromeOS which was introdu
 
 ## Connecting and Configuring the Camera
 
-We’ve covered how to connect and configure the camera in this tutorial². Follow the tutorial from Setting up a Raspberry Pi Camera section up to, and including step 6.
+For getting images with Raspberry Pi, `Legacy Camera Support` must be disabled. Although it is the default in Raspberry Pi OS 'Bullseyebut' if you get an error when using `libcamera` you can try turning it off.
 
 ## Taking Still Images
 
